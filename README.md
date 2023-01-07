@@ -1,0 +1,5 @@
+**# Customer-churning-using-LDA.**
+
+
+
+Predicting the customers churning probability of a telecom company based on their previous data.
