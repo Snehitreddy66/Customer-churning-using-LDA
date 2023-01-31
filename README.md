@@ -1,4 +1,4 @@
-**# Customer-churning-using-LDA.**
+**# Customer-churning-using-LDA**
 
 
 
